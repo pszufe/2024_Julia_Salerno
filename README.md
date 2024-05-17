@@ -41,6 +41,13 @@ This course does not require the participants to have prior detailed knowledge o
 </ul>
 </td><td>&nbsp;</td></tr>
 
+<tr><td>&nbsp;</td><td><a href="3_WebServices/">3 Introduction to web services</a><br>
+<ul>
+<li> Low level HTTP.jl example
+<li> High level Genie.jl example
+</ul>
+</td><td>&nbsp;</td></tr>
+
 
 
 <tr><td><b>Day 2 (Tuesday, May 21, 2024)</b></td><td><a href="4_Optimization_modelling_with_JuMP.jl/">4 Optimization modelling with JuMP.jl</a><br>
@@ -50,14 +57,14 @@ This course does not require the participants to have prior detailed knowledge o
 </ul>
 </td><td>&nbsp;</td></tr>
 
-<tr><td>&nbsp;</td><td><a href="5_Data_Visualizations_Plots.jl/">3 Data visualization</a><br>
+<tr><td>&nbsp;</td><td><a href="5_Data_Visualizations_Plots.jl/">5 Data visualization</a><br>
 <ul>
 <li> Simple graph generation
 <li> Graphs for publication documents
 </ul>
 </td><td>&nbsp;</td></tr>
 
-<tr><td>&nbsp;</td><td><a href="6_Simulation_Models/">3 Running simulation models in Julia</a><br>
+<tr><td>&nbsp;</td><td><a href="6_Simulation_Models/">6 Running simulation models in Julia</a><br>
 <ul>
 <li> Sample simulation models
 </ul>
